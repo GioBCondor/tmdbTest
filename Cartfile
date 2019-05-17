@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire"
+github "Alamofire/AlamofireImage"
+github "realm/realm-cocoa"
+github "HeroTransitions/Hero"
+github "gilesvangruisen/Swift-YouTube-Player"
+github "airbnb/lottie-ios" "master"

@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire" "4.8.2"
+github "Alamofire/AlamofireImage" "3.5.2"
+github "HeroTransitions/Hero" "1.4.0"
+github "airbnb/lottie-ios" "fc01fd60e07e5cc0159a4aeff19eaff9c7d688f5"
+github "gilesvangruisen/Swift-YouTube-Player" "v0.5.1"
+github "realm/realm-cocoa" "v3.15.0"
